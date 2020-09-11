@@ -1,0 +1,17 @@
+div.card {
+    margin: 20px 50px ;
+    border: 2px solid #ccc;
+    float: left;
+    width: 320px;
+  }
+  
+  div.card:hover {
+    border: 2px solid #777;
+  }
+  
+  div.card img {
+    width: 100%;
+    height: 300px;
+  }
+  
+ 
